@@ -1,0 +1,27 @@
+body{
+    /* background-color: hotpink; */
+    margin: 0 5rem 5rem 5rem;
+}
+.bg-light{
+    background-color: aqua;
+}
+.navbar-light{
+    background-color: aqua;
+}
+.navbar-logo{
+   width: 100px;
+   height: 40px;
+   margin-right: 1rem;
+}
+.images {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.center{
+   text-align: center;
+}
+
+.text{
+   color: black; 
+}
